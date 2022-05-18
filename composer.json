@@ -1,0 +1,26 @@
+{
+    "name": "twentytwo-labs/audit-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for audit a Symfony app",
+    "authors": [
+        {
+            "name": "Thibaut ALGRIN",
+            "email": "algrin.thibaut@gmail.com"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "*",
+        "phpmd/phpmd": "*",
+        "phpmetrics/phpmetrics": "*",
+        "sebastian/phpcpd": "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "*",
+        "phpmd/phpmd": "*",
+        "phpmetrics/phpmetrics": "*",
+        "sebastian/phpcpd": "*",
+        "squizlabs/php_codesniffer": "*"
+    }
+}
