@@ -12,24 +12,19 @@
     "require": {
         "friendsofphp/php-cs-fixer": "*",
         "phpmd/phpmd": "*",
-        "phpmetrics/phpmetrics": "*",
         "squizlabs/php_codesniffer": "*",
         "phpstan/phpstan": "*",
-        "phpstan/phpstan-beberlei-assert": "*",
-        "phpstan/phpstan-deprecation-rules": "*",
-        "phpstan/phpstan-strict-rules": "*"
+        "phpstan/phpstan-deprecation-rules": "*"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "*",
         "phpmd/phpmd": "*",
-        "phpmetrics/phpmetrics": "*",
         "squizlabs/php_codesniffer": "*",
         "phpstan/phpstan": "*",
-        "phpstan/phpstan-beberlei-assert": "*",
-        "phpstan/phpstan-deprecation-rules": "*",
-        "phpstan/phpstan-strict-rules": "*"
+        "phpstan/phpstan-deprecation-rules": "*"
     },
     "suggest": {
-        "phpstan/phpstan-doctrine": "*"
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-phpunit": "*"
     }
 }
